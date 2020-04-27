@@ -5,6 +5,7 @@ dependencies:
   - python
   - numpy
   - cartopy
+  - plotly
   - pip:
     - nbgitpuller
     - sphinx-gallery
@@ -12,3 +13,5 @@ dependencies:
     - matplotlib
     - seaborn
     - plotly
+    - ipywidgets
+    - bqplot
